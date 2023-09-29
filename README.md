@@ -1,4 +1,4 @@
-[![Adam G. Emerson's Github Stats](https://github-readme-stats-2x31xpttr-adamgemerson.vercel.app/api?username=adamgemerson&theme=dracula&show_icons=true)](https://github.com/adamgemerson/github-readme-stats)
+[![Adam G. Emerson's Github Stats](https://github-readme-stats-2x31xpttr-adamgemerson.vercel.app/api?username=adamgemerson&show_icons=true)](https://github.com/adamgemerson/github-readme-stats)
 
 # About Me
 ```ts
