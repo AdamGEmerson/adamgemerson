@@ -1,3 +1,5 @@
+[![Adam G. Emerson's Github Stats](https://github-readme-stats-2x31xpttr-adamgemerson.vercel.app/api?username=adamgemerson)](https://github.com/adamgemerson/github-readme-stats)
+
 # About Me
 ```ts
 interface Human {
@@ -41,6 +43,3 @@ const adamGEmerson = whoIAm({whatIDo});
 console.log(adamGEmerson);
 
 ```
-
-# Some Stats
-[![Adam G. Emerson's Github Stats](https://github-readme-stats.vercel.app/api?username=adamgemerson)](https://github.com/adamgemerson/github-readme-stats)
