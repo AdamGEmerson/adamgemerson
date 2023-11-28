@@ -2,22 +2,6 @@
 
 # About Me
 ```ts
-interface Human {
-  name: string;
-  interests: string[];
-  profession?: Profession<any>;
-  favoriteBook?: { title: string; author: string };
-}
-
-interface Profession<T> { title: string; description: string; yearsExperience: number; }
-
-interface Developer extends Profession<Developer> {
-  languages: string[];
-  frameworks: string[];
-  tools: string[];
-}
-
-type Employment = Profession<any> | undefined;
 
 // 🤨🔎 About Me 
 
