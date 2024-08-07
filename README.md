@@ -2,7 +2,7 @@
 
 # About Me
 ```ts
-const aboutMe = ( ): Human => {
+const aboutMe = ( ) => {
   return {
     name: 'Adam G. Emerson',
     description: 'Web Developer and Researcher',
@@ -10,7 +10,5 @@ const aboutMe = ( ): Human => {
     favoriteBook: {title: 'Cats Cradle', author: 'Kurt Vonnegut Jr.'},
   }
 }
-
-console.log(aboutMe);
 
 ```
